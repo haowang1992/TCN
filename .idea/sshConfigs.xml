@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="59.110.162.27" id="3db56931-5339-4021-a3b0-51d22ef2ce2f" port="6000" customName="20218-JournalZSSBIR" nameFormat="CUSTOM" username="wanghao">
+        <option name="customName" value="20218-JournalZSSBIR" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="59.110.162.27" id="66aa18a5-841c-49c5-bc3d-262f2184fc37" port="6000" customName="20218-JournalZSSBIR" nameFormat="CUSTOM" username="wanghao">
+        <option name="customName" value="20218-JournalZSSBIR" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:100}" host="59.110.162.27" id="ee05ab7c-7806-4894-8cce-697299101b03" port="6000" customName="20218-JournalZSSBIR" nameFormat="CUSTOM">
+        <option name="customName" value="20218-JournalZSSBIR" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
